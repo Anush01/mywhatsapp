@@ -37,7 +37,8 @@ keystore.properties
 .Spotlight-V100
 .Trashes
 
-# ── APK / AAB outputs ─────────────────────────────────────────────────────────
+# ── APK / AAB outputs and release folders ────────────────────────────────────
 *.apk
 *.aab
 *.ap_
+app/release/
